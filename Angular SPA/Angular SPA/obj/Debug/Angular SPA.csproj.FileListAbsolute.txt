@@ -1,0 +1,155 @@
+E:\YEHUDIT!\תרגול ב angular\Angular SPA\Angular SPA\bin\roslyn\csc.exe
+E:\YEHUDIT!\תרגול ב angular\Angular SPA\Angular SPA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\YEHUDIT!\תרגול ב angular\Angular SPA\Angular SPA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\YEHUDIT!\תרגול ב angular\Angular SPA\Angular SPA\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\YEHUDIT!\תרגול ב angular\Angular SPA\Angular SPA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\YEHUDIT!\תרגול ב angular\Angular SPA\Angular SPA\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\YEHUDIT!\תרגול ב angular\Angular SPA\Angular SPA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\YEHUDIT!\תרגול ב angular\Angular SPA\Angular SPA\bin\roslyn\System.Collections.Immutable.dll
+E:\YEHUDIT!\תרגול ב angular\Angular SPA\Angular SPA\bin\roslyn\System.Reflection.Metadata.dll
+E:\YEHUDIT!\תרגול ב angular\Angular SPA\Angular SPA\bin\roslyn\vbc.exe
+E:\YEHUDIT!\תרגול ב angular\Angular SPA\Angular SPA\bin\roslyn\VBCSCompiler.exe
+E:\YEHUDIT!\תרגול ב angular\Angular SPA\Angular SPA\bin\roslyn\VBCSCompiler.exe.config
+E:\YEHUDIT!\תרגול ב angular\Angular SPA\Angular SPA\bin\Angular SPA.dll.config
+E:\YEHUDIT!\תרגול ב angular\Angular SPA\Angular SPA\bin\Angular SPA.dll
+E:\YEHUDIT!\תרגול ב angular\Angular SPA\Angular SPA\bin\Angular SPA.pdb
+E:\YEHUDIT!\תרגול ב angular\Angular SPA\Angular SPA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\YEHUDIT!\תרגול ב angular\Angular SPA\Angular SPA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\YEHUDIT!\תרגול ב angular\Angular SPA\Angular SPA\obj\Debug\Angular SPA.dll
+E:\YEHUDIT!\תרגול ב angular\Angular SPA\Angular SPA\obj\Debug\Angular SPA.pdb
+E:\YEHUDIT!\תרגול ב angular\Angular SPA\Angular SPA\obj\Debug\Angular SPA.csprojResolveAssemblyReference.cache
+I:\גיבוי לangular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\csc.exe
+I:\גיבוי לangular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\גיבוי לangular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\גיבוי לangular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\גיבוי לangular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\גיבוי לangular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\גיבוי לangular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\גיבוי לangular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\System.Collections.Immutable.dll
+I:\גיבוי לangular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\System.Reflection.Metadata.dll
+I:\גיבוי לangular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\vbc.exe
+I:\גיבוי לangular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\VBCSCompiler.exe
+I:\גיבוי לangular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\VBCSCompiler.exe.config
+I:\גיבוי לangular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\Angular SPA.dll.config
+I:\גיבוי לangular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\Angular SPA.dll
+I:\גיבוי לangular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\Angular SPA.pdb
+I:\גיבוי לangular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\גיבוי לangular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\גיבוי לangular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\obj\Debug\Angular SPA.dll
+I:\גיבוי לangular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\obj\Debug\Angular SPA.pdb
+E:\YEHUDIT!\תרגול ב angular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\csc.exe
+E:\YEHUDIT!\תרגול ב angular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\YEHUDIT!\תרגול ב angular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\YEHUDIT!\תרגול ב angular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\YEHUDIT!\תרגול ב angular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\YEHUDIT!\תרגול ב angular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\YEHUDIT!\תרגול ב angular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\YEHUDIT!\תרגול ב angular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\System.Collections.Immutable.dll
+E:\YEHUDIT!\תרגול ב angular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\System.Reflection.Metadata.dll
+E:\YEHUDIT!\תרגול ב angular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\vbc.exe
+E:\YEHUDIT!\תרגול ב angular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\VBCSCompiler.exe
+E:\YEHUDIT!\תרגול ב angular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\roslyn\VBCSCompiler.exe.config
+E:\YEHUDIT!\תרגול ב angular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\Angular SPA.dll.config
+E:\YEHUDIT!\תרגול ב angular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\Angular SPA.dll
+E:\YEHUDIT!\תרגול ב angular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\Angular SPA.pdb
+E:\YEHUDIT!\תרגול ב angular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\YEHUDIT!\תרגול ב angular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\YEHUDIT!\תרגול ב angular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\obj\Debug\Angular SPA.dll
+E:\YEHUDIT!\תרגול ב angular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\obj\Debug\Angular SPA.pdb
+E:\YEHUDIT!\תרגול ב angular\שעון מעוצב לא עובד\Angular SPA\Angular SPA\obj\Debug\Angular SPA.csprojResolveAssemblyReference.cache
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\roslyn\csc.exe
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\roslyn\System.Collections.Immutable.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\roslyn\System.Reflection.Metadata.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\roslyn\vbc.exe
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\roslyn\VBCSCompiler.exe
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\roslyn\VBCSCompiler.exe.config
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\x86\ClearScriptV8-32.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\x86\v8-ia32.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\x64\ClearScriptV8-64.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\x64\v8-x64.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\Angular SPA.dll.config
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\Angular SPA.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\Angular SPA.pdb
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\ClearScript.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\JavaScriptEngineSwitcher.Core.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\JavaScriptEngineSwitcher.Msie.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\JavaScriptEngineSwitcher.V8.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\JSPool.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\Microsoft.Web.Infrastructure.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\MsieJavaScriptEngine.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\Newtonsoft.Json.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\React.Core.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\React.Web.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\VroomJs.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\WebActivatorEx.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\JavaScriptEngineSwitcher.Core.xml
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\JavaScriptEngineSwitcher.Msie.xml
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\JavaScriptEngineSwitcher.V8.xml
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\JSPool.xml
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\MsieJavaScriptEngine.xml
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\Newtonsoft.Json.xml
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\React.Core.xml
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\React.Web.xml
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\VroomJs.xml
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\obj\Debug\Angular SPA.csprojResolveAssemblyReference.cache
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\obj\Debug\Angular SPA.dll
+E:\YEHUDIT!\תרגול ב angular\עם ריאקט\Angular SPA\Angular SPA\obj\Debug\Angular SPA.pdb
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\x86\ClearScriptV8-32.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\x86\v8-ia32.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\x64\ClearScriptV8-64.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\x64\v8-x64.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\roslyn\csc.exe
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\roslyn\System.Collections.Immutable.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\roslyn\System.Reflection.Metadata.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\roslyn\vbc.exe
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\roslyn\VBCSCompiler.exe
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\roslyn\VBCSCompiler.exe.config
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\Angular SPA.dll.config
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\Angular SPA.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\Angular SPA.pdb
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\ClearScript.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\JavaScriptEngineSwitcher.Core.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\JavaScriptEngineSwitcher.Msie.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\JavaScriptEngineSwitcher.V8.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\JSPool.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\Microsoft.Web.Infrastructure.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\MsieJavaScriptEngine.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\Newtonsoft.Json.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\React.Core.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\React.Web.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\VroomJs.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\WebActivatorEx.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\JavaScriptEngineSwitcher.Core.xml
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\JavaScriptEngineSwitcher.Msie.xml
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\JavaScriptEngineSwitcher.V8.xml
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\JSPool.xml
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\MsieJavaScriptEngine.xml
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\Newtonsoft.Json.xml
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\React.Core.xml
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\React.Web.xml
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\VroomJs.xml
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\obj\Debug\Angular SPA.dll
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\obj\Debug\Angular SPA.pdb
+E:\YEHUDIT!\תרגול ב angular\2 המערכים\Angular SPA\Angular SPA\obj\Debug\Angular SPA.csprojResolveAssemblyReference.cache

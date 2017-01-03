@@ -1,0 +1,50 @@
+﻿    <div class="textSelected">
+        <h1>Report</h1>
+    </div>
+
+
+
+<!--<table class="table">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Last Name</th>
+    </tr>
+    <tr ng-repeat="item in EmployeeList">
+        <td>{{item.Id}}</td>
+        <td>{{item.Name}}</td>
+        <td>{{item.LastName}}</td>
+    </tr>
+</table>
+
+<br />-->
+<center>
+<strong class="textSelected">Choose a month to display:</strong>
+<select class="form-control" ng-model="selected" ng-options="m for m in Months.options"style="width:auto"></select>
+<h4>{{selected}}</h4>
+</center>
+<table class="table  table-bordered table-striped">
+    <tr class="textSelected">
+        <th>Id</th>
+        <th>Name</th>
+        <th>Last Name   </th>
+        <!--<th><input type="text" ng-model="searchText" ng-init="searchText=" /></th><th> </th>-->
+        <th>Start Time  </th>
+        <th>End Time    </th>
+        <th>Date        </th>
+    </tr>
+    <!--| filter:{EmployeeId:'31535'}-->
+    <!--|filter:{Date:Months.selected}-->
+    <!--| MonthFilter-->
+    <!--| filter:{Date:'MonthFilter'}-->
+    <!--| orderBy: '-Date'-->
+    <!--| filter:MonthFilter-->
+    <tr class="Report_tbl" ng-repeat="item in WorktimeList | filter:MonthFilter">
+        <td>{{item.EmployeeId}}</td>
+        <td>{{GetEmployeeName(item.EmployeeId)}}</td>
+        <td>{{GetEmployeeLastName(item.EmployeeId)}}</td>
+        <td>{{item.StartTime| date:'shortTime'}}</td>
+        <td>{{item.EndTime| date:'shortTime'}}</td>
+        <td>{{item.Date | date:'fullDate' }}</td>
+    </tr>
+</table>

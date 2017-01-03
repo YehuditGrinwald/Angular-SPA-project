@@ -1,0 +1,43 @@
+﻿<!doctype html>
+<html ng-app="myApp">
+<head>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-animate.js"></script>
+    <script src="Scripts/angular-sanitize.js"></script>
+    <script src="Scripts/angular-route.min.js"></script>
+    <script src="Scripts/angular-ui/ui-bootstrap-tpls-2.3.1.js"></script>
+    <script src="Scripts/jquery-1.9.1.min.js"></script>
+    <script src="Scripts/browser.min.js"></script>
+    <script src="App/app.module.js"></script>
+    <script src="Service/EmployeeService.js"></script>
+    <script src="Controller/main.js"></script>
+    <script src="Controller/ReportCtrl.js"></script>
+    <script src="Controller/DateTimeUpdateCtrl.js"></script>
+    <!--React-->
+    <script src="Scripts/ReactScripts/react-0.14.3.js"></script>
+    <script src="Scripts/ReactScripts/react-dom.js"></script>
+    <!-- CSS -->
+    <!--<link href="//netdna.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">-->
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Style/SASS/MyStyleSheet.css" rel="stylesheet" />
+
+    <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
+    <!--http://stackoverflow.com/questions/1321878/how-to-prevent-favicon-ico-requests-->
+
+</head>
+
+<body class="general_style">
+    <div>
+        <a href="#/Home" class="glyphicon glyphicon-home btn btn-primary btn-lg Home_button"></a>
+        <a href="#/DateTimeUpdate" class="btn btn-primary DateTime_button">Update entry and exit</a>
+        <a href="#/Report" class="btn btn-primary Report_button">Report</a>
+        <br />
+    </div>
+    
+    <div ng-view></div>
+    <div id="dateTimeByReact"></div>
+
+    <script src="Scripts/ReactScripts/ReactPage.js"></script>
+
+</body>
+</html>

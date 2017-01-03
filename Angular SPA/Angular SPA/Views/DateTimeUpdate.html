@@ -1,0 +1,52 @@
+﻿<div class="textSelected">
+    <center>
+        <h2>Select date and time</h2>
+    </center>
+</div>
+<div style="display:inline-flex!important">
+    <div class="input_id">
+        <center>
+            <h2>Enter ID</h2>
+            <input type="text" ng-model="EmployeeID" class="form-control" style="width:auto" />
+        </center>
+    </div>
+    <div id="date_and_time_and_buttons">
+        <center>
+            <div class="group_pickers">
+                <div id="time picker" class="time_picker">
+                    <center>
+                        <div>
+                            <div uib-timepicker ng-model="mytime" ng-change="changed()" hour-step="hstep" minute-step="mstep" show-meridian="ismeridian"></div><br />
+                            <button type="button" class="btn btn-info" ng-click="toggleMode()">12H / 24H</button>
+                        </div>
+                        <h4 class="alert alert-info" style="width:265px; margin-top:156px">Selected time is: {{mytime | date:'shortTime' }}</h4>
+                    </center>
+                </div>
+
+                <!--date picker-->
+                <div class="datePicker">
+                    <center>
+                        <div style="min-height:290px; height:355px">
+                            <div uib-datepicker ng-model="dt" class="well well-sm" datepicker-options="options"></div>
+                            <div>
+                                <button type="button" class="btn btn-sm btn-info" ng-click="today()">Today</button>
+                                <h4 class="alert alert-info" style="width:408px">Selected date is: <em>{{dt | date:'fullDate' }}</em></h4>
+                            </div>
+                        </div>
+
+                    </center>
+                </div>
+            </div>
+
+
+
+            <div class="dt_Buttons" style="display: inline-block">
+                <button type="button" class="btn btn-danger clear_button_style" ng-click="clear()">Clear</button>
+                <button ng-click="UpdateExitTime()" class="btn btn-primary btn-lg Exit_button_style"> EXIT</button>
+                <button ng-click="UpdateEntryTime()" class="btn btn-primary btn-lg Entry_button_style"> ENTRY</button>
+                <br />
+                <p class="textSelected">{{message}}</p>
+            </div>
+        </center>
+    </div>
+</div> 

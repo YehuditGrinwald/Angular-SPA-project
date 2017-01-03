@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../SASS/Stylescss.css",
+	"sources": [
+		"../SASS/Stylescss.scss"
+	],
+	"sourcesContent": [
+		"﻿\r\n$myFont:Adobe Garamond Pro Bold;\r\n$myBackColor:lightgray;\r\nbody {\r\n    font-family:$myFont;\r\n    background-color:lightgray  ;\r\n}\r\n"
+	],
+	"mappings": ";;AAGA,AAAA,IAAI,CAAC;EACD,WAAW,EAHP,KAAK,CAAC,QAAQ,CAAC,GAAG,CAAC,IAAI;EAI3B,gBAAgB,EAAC,SAAY;CAChC",
+	"names": []
+}

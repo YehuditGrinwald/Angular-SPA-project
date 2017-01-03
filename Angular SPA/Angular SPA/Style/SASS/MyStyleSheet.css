@@ -1,0 +1,100 @@
+﻿.general_style {
+  background-color: #eeeeee;
+  font-family: Calibri;
+  font-size: larger; }
+  .general_style .Home_button {
+    height: 50px;
+    width: 50px;
+    margin: 10px 7px 2px 10px;
+    background-color: #03b26b; }
+  .general_style .DateTime_button {
+    /*top: 20px;
+        left: 20px;*/
+    width: 190px;
+    height: 50px;
+    margin: 20px 7px 10px 10px;
+    font-size: large;
+    background-color: #03b26b; }
+  .general_style .Report_button {
+    height: 50px;
+    margin: 20px 7px 8px 10px;
+    font-size: large;
+    background-color: #03b26b; }
+
+.input_id {
+  clear: both;
+  border-style: double;
+  border-color: #03b26b;
+  width: 250px;
+  height: 130px;
+  margin-top: 15px;
+  margin-left: 60px;
+  font-size: large;
+  color: #03b26b;
+  font-family: #03b26b; }
+
+.textSelected {
+  font-size: large;
+  color: #03b26b;
+  font-family: #03b26b; }
+
+.group_pickers {
+  margin-top: 15px;
+  margin-left: 100px;
+  border-style: double;
+  border-width: 2px;
+  border-color: #eeeeee;
+  width: 730px;
+  height: 390px; }
+  .group_pickers .time_picker {
+    float: left;
+    border-style: double;
+    border-color: #03b26b;
+    width: 270px;
+    height: 380px; }
+  .group_pickers .datePicker {
+    margin-left: 20px;
+    float: right;
+    border-style: double;
+    border-color: #03b26b;
+    width: 420px;
+    height: 380px; }
+
+.dt_Buttons {
+  border-color: #eeeeee;
+  border-style: double;
+  margin-top: 15px;
+  width: 750px;
+  height: 140px;
+  overflow: auto;
+  float: left;
+  margin-left: 100px; }
+  .dt_Buttons .clear_button_style {
+    float: left;
+    width: 60px;
+    height: 40px; }
+  .dt_Buttons .Entry_button_style {
+    margin: 40px 0px 5px 70px;
+    width: 150px;
+    height: 70px;
+    font-size: xx-large; }
+  .dt_Buttons .Exit_button_style {
+    background-color: goldenrod;
+    margin: 40px 30px 5px 5px;
+    width: 150px;
+    height: 70px;
+    font-size: xx-large; }
+
+.Report_tbl {
+  font-size: medium; }
+
+article .my_paragraph {
+  margin: 0,4px,4px,4px;
+  padding: 0; }
+  article .my_paragraph .h2 {
+    font-size: 1.7em;
+    color: #03b26b; }
+  article .my_paragraph .h3 {
+    font-size: 1em;
+    color: #03b26b; }
+
